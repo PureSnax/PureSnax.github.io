@@ -1,0 +1,28 @@
+html{
+	background-color: #808080;
+}
+
+
+
+p {
+	background-color: #00FFFF;
+	font-family: arial;
+	font-size: 36px; 
+	border: #000000;
+	border-style: solid;
+    border-width: 20px 45px 20px 45px;
+    border-color: #808080
+    border-style round;
+    margin: auto;
+    padding: 30px 25px 30px 75px	
+    height:100px;
+    width:500px;
+    text-align: center;
+}
+
+h2 {
+	font-size: 24px;
+	font-family: arial;
+	padding-left: 30px;
+
+}
